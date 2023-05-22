@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\ferð\ferð\bin\Debug\net6.0\ferð.exe
+C:\Users\Hp\source\repos\ferð\ferð\bin\Debug\net6.0\ferð.deps.json
+C:\Users\Hp\source\repos\ferð\ferð\bin\Debug\net6.0\ferð.runtimeconfig.json
+C:\Users\Hp\source\repos\ferð\ferð\bin\Debug\net6.0\ferð.dll
+C:\Users\Hp\source\repos\ferð\ferð\bin\Debug\net6.0\ferð.pdb
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ferð.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ferð.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ferð.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ferð.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ferð.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ferð.dll
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\refint\ferð.dll
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ferð.pdb
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ferð.genruntimeconfig.cache
+C:\Users\Hp\source\repos\ferð\ferð\obj\Debug\net6.0\ref\ferð.dll

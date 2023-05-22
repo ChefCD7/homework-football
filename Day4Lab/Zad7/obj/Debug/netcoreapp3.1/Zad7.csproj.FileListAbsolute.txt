@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Day4Lab\Zad7\bin\Debug\netcoreapp3.1\Zad7.exe
+C:\Users\Hp\source\repos\Day4Lab\Zad7\bin\Debug\netcoreapp3.1\Zad7.deps.json
+C:\Users\Hp\source\repos\Day4Lab\Zad7\bin\Debug\netcoreapp3.1\Zad7.runtimeconfig.json
+C:\Users\Hp\source\repos\Day4Lab\Zad7\bin\Debug\netcoreapp3.1\Zad7.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Day4Lab\Zad7\bin\Debug\netcoreapp3.1\Zad7.dll
+C:\Users\Hp\source\repos\Day4Lab\Zad7\bin\Debug\netcoreapp3.1\Zad7.pdb
+C:\Users\Hp\source\repos\Day4Lab\Zad7\obj\Debug\netcoreapp3.1\Zad7.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Day4Lab\Zad7\obj\Debug\netcoreapp3.1\Zad7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Day4Lab\Zad7\obj\Debug\netcoreapp3.1\Zad7.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Day4Lab\Zad7\obj\Debug\netcoreapp3.1\Zad7.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Day4Lab\Zad7\obj\Debug\netcoreapp3.1\Zad7.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Day4Lab\Zad7\obj\Debug\netcoreapp3.1\Zad7.dll
+C:\Users\Hp\source\repos\Day4Lab\Zad7\obj\Debug\netcoreapp3.1\Zad7.pdb
+C:\Users\Hp\source\repos\Day4Lab\Zad7\obj\Debug\netcoreapp3.1\Zad7.genruntimeconfig.cache

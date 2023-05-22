@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{A6C62BD8-28C6-419E-9890-E9EDEEB45323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad1USDtoBGN", "Zad1USDtoBGN\Zad1USDtoBGN.csproj", "{CD90E52D-E059-4C3E-817E-CACC29E56410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad2RadiansToDegree", "Zad2RadiansToDegree\Zad2RadiansToDegree.csproj", "{5CEA942D-C304-40FC-9D00-007955A298A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad3CalculatorDeposit", "Zad3CalculatorDeposit\Zad3CalculatorDeposit.csproj", "{E20078F6-64B9-42BA-A3C4-E7523F872C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad4MustReadLiterature", "Zad4MustReadLiterature\Zad4MustReadLiterature.csproj", "{F96E59EF-5912-4F2D-B2CA-E194D67F7CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad6Repainting", "Zad6Repainting\Zad6Repainting.csproj", "{2A5A635C-6CBB-4CEB-8557-C4BD5112AEE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C62BD8-28C6-419E-9890-E9EDEEB45323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C62BD8-28C6-419E-9890-E9EDEEB45323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C62BD8-28C6-419E-9890-E9EDEEB45323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C62BD8-28C6-419E-9890-E9EDEEB45323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD90E52D-E059-4C3E-817E-CACC29E56410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD90E52D-E059-4C3E-817E-CACC29E56410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD90E52D-E059-4C3E-817E-CACC29E56410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD90E52D-E059-4C3E-817E-CACC29E56410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEA942D-C304-40FC-9D00-007955A298A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEA942D-C304-40FC-9D00-007955A298A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEA942D-C304-40FC-9D00-007955A298A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEA942D-C304-40FC-9D00-007955A298A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20078F6-64B9-42BA-A3C4-E7523F872C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20078F6-64B9-42BA-A3C4-E7523F872C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20078F6-64B9-42BA-A3C4-E7523F872C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20078F6-64B9-42BA-A3C4-E7523F872C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96E59EF-5912-4F2D-B2CA-E194D67F7CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96E59EF-5912-4F2D-B2CA-E194D67F7CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96E59EF-5912-4F2D-B2CA-E194D67F7CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96E59EF-5912-4F2D-B2CA-E194D67F7CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5A635C-6CBB-4CEB-8557-C4BD5112AEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5A635C-6CBB-4CEB-8557-C4BD5112AEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5A635C-6CBB-4CEB-8557-C4BD5112AEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5A635C-6CBB-4CEB-8557-C4BD5112AEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B6A342-26C2-47B3-A488-FA7030414752}
+	EndGlobalSection
+EndGlobal

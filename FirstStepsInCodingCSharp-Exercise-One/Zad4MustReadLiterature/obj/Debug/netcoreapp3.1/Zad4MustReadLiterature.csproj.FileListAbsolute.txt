@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\bin\Debug\netcoreapp3.1\Zad4MustReadLiterature.exe
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\bin\Debug\netcoreapp3.1\Zad4MustReadLiterature.deps.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\bin\Debug\netcoreapp3.1\Zad4MustReadLiterature.runtimeconfig.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\bin\Debug\netcoreapp3.1\Zad4MustReadLiterature.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\bin\Debug\netcoreapp3.1\Zad4MustReadLiterature.dll
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\bin\Debug\netcoreapp3.1\Zad4MustReadLiterature.pdb
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\obj\Debug\netcoreapp3.1\Zad4MustReadLiterature.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\obj\Debug\netcoreapp3.1\Zad4MustReadLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\obj\Debug\netcoreapp3.1\Zad4MustReadLiterature.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\obj\Debug\netcoreapp3.1\Zad4MustReadLiterature.AssemblyInfo.cs
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\obj\Debug\netcoreapp3.1\Zad4MustReadLiterature.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\obj\Debug\netcoreapp3.1\Zad4MustReadLiterature.dll
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\obj\Debug\netcoreapp3.1\Zad4MustReadLiterature.pdb
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad4MustReadLiterature\obj\Debug\netcoreapp3.1\Zad4MustReadLiterature.genruntimeconfig.cache

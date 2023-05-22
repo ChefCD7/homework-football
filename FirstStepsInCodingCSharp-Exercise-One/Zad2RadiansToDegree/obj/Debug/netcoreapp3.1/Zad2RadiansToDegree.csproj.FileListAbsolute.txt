@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\bin\Debug\netcoreapp3.1\Zad2RadiansToDegree.exe
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\bin\Debug\netcoreapp3.1\Zad2RadiansToDegree.deps.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\bin\Debug\netcoreapp3.1\Zad2RadiansToDegree.runtimeconfig.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\bin\Debug\netcoreapp3.1\Zad2RadiansToDegree.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\bin\Debug\netcoreapp3.1\Zad2RadiansToDegree.dll
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\bin\Debug\netcoreapp3.1\Zad2RadiansToDegree.pdb
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\obj\Debug\netcoreapp3.1\Zad2RadiansToDegree.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\obj\Debug\netcoreapp3.1\Zad2RadiansToDegree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\obj\Debug\netcoreapp3.1\Zad2RadiansToDegree.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\obj\Debug\netcoreapp3.1\Zad2RadiansToDegree.AssemblyInfo.cs
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\obj\Debug\netcoreapp3.1\Zad2RadiansToDegree.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\obj\Debug\netcoreapp3.1\Zad2RadiansToDegree.dll
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\obj\Debug\netcoreapp3.1\Zad2RadiansToDegree.pdb
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\Zad2RadiansToDegree\obj\Debug\netcoreapp3.1\Zad2RadiansToDegree.genruntimeconfig.cache

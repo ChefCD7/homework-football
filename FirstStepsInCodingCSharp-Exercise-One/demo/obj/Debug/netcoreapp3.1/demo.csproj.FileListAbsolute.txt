@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\obj\Debug\netcoreapp3.1\demo.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\obj\Debug\netcoreapp3.1\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\Users\Hp\source\repos\FirstStepsInCodingCSharp-Exercise-One\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\bin\Debug\netcoreapp3.1\Zad5.exe
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\bin\Debug\netcoreapp3.1\Zad5.deps.json
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\bin\Debug\netcoreapp3.1\Zad5.runtimeconfig.json
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\bin\Debug\netcoreapp3.1\Zad5.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\bin\Debug\netcoreapp3.1\Zad5.dll
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\bin\Debug\netcoreapp3.1\Zad5.pdb
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\obj\Debug\netcoreapp3.1\Zad5.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\obj\Debug\netcoreapp3.1\Zad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\obj\Debug\netcoreapp3.1\Zad5.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\obj\Debug\netcoreapp3.1\Zad5.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\obj\Debug\netcoreapp3.1\Zad5.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\obj\Debug\netcoreapp3.1\Zad5.dll
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\obj\Debug\netcoreapp3.1\Zad5.pdb
+C:\Users\Hp\source\repos\Day7-Ex\Zad5\obj\Debug\netcoreapp3.1\Zad5.genruntimeconfig.cache

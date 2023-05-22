@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\bin\Debug\netcoreapp3.1\Exam 6.exe
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\bin\Debug\netcoreapp3.1\Exam 6.deps.json
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\bin\Debug\netcoreapp3.1\Exam 6.runtimeconfig.json
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\bin\Debug\netcoreapp3.1\Exam 6.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\bin\Debug\netcoreapp3.1\Exam 6.dll
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\bin\Debug\netcoreapp3.1\Exam 6.pdb
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\obj\Debug\netcoreapp3.1\Exam 6.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\obj\Debug\netcoreapp3.1\Exam 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\obj\Debug\netcoreapp3.1\Exam 6.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\obj\Debug\netcoreapp3.1\Exam 6.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\obj\Debug\netcoreapp3.1\Exam 6.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\obj\Debug\netcoreapp3.1\Exam 6.dll
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\obj\Debug\netcoreapp3.1\Exam 6.pdb
+C:\Users\Hp\source\repos\ExamPrep\Exam 6\obj\Debug\netcoreapp3.1\Exam 6.genruntimeconfig.cache

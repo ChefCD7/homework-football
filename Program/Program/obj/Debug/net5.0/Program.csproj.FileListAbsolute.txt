@@ -1,5 +1,0 @@
-C:\Users\Hp\source\repos\Program\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
-C:\Users\Hp\source\repos\Program\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Hp\source\repos\Program\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
-C:\Users\Hp\source\repos\Program\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
-C:\Users\Hp\source\repos\Program\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
